@@ -1,0 +1,35 @@
+Wallet (locally)
+================
+name: hgems
+password: "PW5JJs7FPU5rsR3Am3PbiUQcsadCG8cVX8jDSAwzAbnrDX3WcbQY4"
+command: `cleos wallet unlock -n hgems --password PW5JJs7FPU5rsR3Am3PbiUQcsadCG8cVX8jDSAwzAbnrDX3WcbQY4`
+########################################################################
+Jungle Testnet
+************************************************************************************
+
+HiddenGems Contracts
+====================
+hiddengemsss
+Private key: 5JvBg7pQy9YWyqWZghK1cMpppXhjeSCr2rpZef4EkNPEbAcNzF2
+Public key: EOS6ua5hWS3KHEjwtfnKW26MSGrr9jan6HCk94W8sXtM51kYBd9g7
+
+HiddenGems Admins
+====================
+hiddengemsxx
+Private key: 5Jom5GBtfhcF4ToxWdctbi9giB5nQ3FLGqNyir27hBsKMWnymVe
+Public key: EOS5Gxs7nSJkL8UJFMV5CEqAp1ZC5svyf42PRGLEoXBrNvx1F7r15
+
+
+HiddenGems Users
+==================
+hgemsusr1111
+Private key: 5HqwMDGCfYNSbB4XtpcXD1qWR98yJ9fmzwXQNrjmv2JfZwzpWE6
+Public key: EOS7ujyt6FedhAx92EMXLDkR6Ftg1fgAYsfCRovfkP7eJ8npfwq8m
+-----------------------------------------------------------------
+hgemsusr1112
+Private key: 5KEduawT2pqJvqiPmhN97y356LKi7bZdMca1rq6HpF3Fgfu9USc
+Public key: EOS5mFQj6S5DourJFNXojD7qiyr9BbxDE2E1QeSRLjnaCTUVRzH6q
+-----------------------------------------------------------------
+hgemsusr1112
+Private key: 5J6YFSPS9AAT2SLVtedJ6EjLaTDfbV254Y8zmrMfbb4s4orNivV
+Public key: EOS6EVD9LCmSYXDQAZKiDw6aWmmR792Bc8tmjBSAVz9dZz74ZTe6t
